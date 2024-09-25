@@ -3,6 +3,4 @@
 ## Thanatophorus Website
 
 To build
-- Run `git clone https://github.com/Thanatophorus/web.git`
-- Run `npm i expressjs`
-- Run `node .`
+- ITS A STATIC WEBSITE
